@@ -1,2 +1,2 @@
-# nephew-foot-blog
-simple photo gallery
+# foot-blog-nephew
+Simple photo gallery
